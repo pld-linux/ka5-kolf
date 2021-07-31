@@ -44,6 +44,12 @@ view, with a short bar representing the golf club. Kolf features many
 different types of objects, such water hazards, slopes, sand traps,
 and black holes (warps), among others.
 
+%description -l pl.UTF-8
+Kolf jest miniaturową grą w golfa. Gra jest pokazywana z z góry,
+z małą poprzeczką reprezentującą klub golfowy. Kolf zawiera
+wiele różnych typów obiektów, takich jak pułapki wodne, zbocza,
+pułapki piaskowe i czarne dziury.
+
 %prep
 %setup -q -n %{kaname}-%{version}
 
